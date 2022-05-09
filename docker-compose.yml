@@ -3,7 +3,10 @@ services:
   worker:
     build: .
     environment:
-      API_HASH = $API_HASH
-      APP_ID = $API_ID
-      BOT_TOKEN = $BOT_TOKEN
-      SUDO_USERS = $SUDO USERS
+      API_HASH: $API_HASH
+      APP_ID: $API_ID
+      BOT_TOKEN: $BOT_TOKEN
+      SUDO_USERS: $SUDO USERS
+    resources:
+      cpu: 1000m
+      memory: 3Gi
