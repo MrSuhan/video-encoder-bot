@@ -5,4 +5,5 @@ services:
     environment:
       API_HASH = $API_HASH
       APP_ID = $API_ID
-      
+      BOT_TOKEN = $BOT_TOKEN
+      SUDO_USERS = $SUDO USERS
