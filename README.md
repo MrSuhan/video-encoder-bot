@@ -30,3 +30,5 @@ python3 -m bot
 ### Copyright & License
 - Copyright &copy; 2021 &mdash; [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU General Public License Version 3 &dash; 29 June 2007](./LICENSE)
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/MrSuhan/video-encoder-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
